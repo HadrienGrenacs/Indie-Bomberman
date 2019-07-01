@@ -1,0 +1,8 @@
+Contrôles en jeu :
+
+     JOUEUR 1   	                   JOUEUR 2
+    - Haut : Z                 - Haut: ARROW UP
+    - Bas : S                       - Bas : ARROW DOWN
+    - Gauche : Q                    - Gauche : ARROW LEFT
+    - Droite : D                        - Droite : ARROW RIGHT
+    - Bombe : SPACE            - Bombe : M
