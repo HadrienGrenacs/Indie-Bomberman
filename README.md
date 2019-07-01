@@ -1,4 +1,6 @@
-Indie Studio is an Epitech bomberman project made in Irrlicht.
+Indie Studio is an Epitech bomberman-like project made in C++ & Irrlicht 3D lib.
+
+This game is cross platform (with CMake)
 
 To play on Linux distro :
 
